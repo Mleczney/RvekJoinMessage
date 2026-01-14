@@ -1,0 +1,5 @@
+name: RvekJoinMessage
+version: '1.0'
+main: me.Mleczney.rvekJoinMessage.RvekJoinMessage
+api-version: '1.21'
+depend: [RvekCore]
